@@ -34,7 +34,7 @@ Your digital health companion.
 
 `Flutter` `Solidity` `Hive Blockchain` `Firebase` `AWS` `Node.js`  
 `Python` `SQflite` `Linux` `REST API` `GraphQL`  
-`Provider` `Riverpod` `Git` `Jira` `MVVM`
+`Provider` `Riverpod`  `MVVM`
 
 ---
 
@@ -46,7 +46,7 @@ Your digital health companion.
 
 ## 🏆 Hackathon Highlights
 
-- **1st Place** – XposedOrNot  
+- **1st Place** – XposedOrNot, Formidium -BITS Pilani
 - **2nd Place** – Chipp, Hack With Delhi (Web3), Build With Delhi (Web3)  
 - **Winner** – Soroban Bounty (Web3), Hedera Pre-Hack  
 - **3rd Place** – IIT Delhi Tryst  
