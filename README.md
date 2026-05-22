@@ -1,62 +1,45 @@
-# 👋 Hi, I’m Abin Saji!
+# Hey, I'm Abin Saji 👋
 
-Welcome to my GitHub! I’m a passionate Flutter and Web3 developer based in Bengaluru, India, creating impactful apps and decentralized solutions.
+Flutter developer and indie builder based in Bengaluru. I build cross-platform apps, ship on tight timelines, and occasionally win hackathons.
 
----
-
-## 🚀 About Me
-
-- **Flutter App Developer** (Independent Contractor @ Itovi, USA)
-  - Building cross-platform mobile experiences for global users.
-- **Founder & Developer** of **Travelo** – a decentralized travel blogging platform empowering creators with Web3 monetization.
-- **Freelance Mobile App Developer**: Delivering real-world solutions, from appointment booking to health tech.
-- **Student** at Christ University, Bengaluru (BCA).
+Currently building **Catalog** — a B2B corporate swag and procurement platform (Flutter + Supabase). Also heading mobile at **WorldMapPin**, a decentralized travel platform acquired from my earlier startup Travelo.
 
 ---
 
-## 🌟 Featured Projects
+## What I'm working on
 
-### 🧭 Travelo – Decentralized Travel Blogging Platform  
-Web3 for wanderers!  
-- Blockchain-powered platform for travel blogging and monetization via smart contracts  
-- Secured initial funding and blockchain partnerships  
-- Built user authentication, reward mechanisms, and seamless creator experience
+**[Catalog](https://catalogpro.ai)** — Three-portal (employer / employee / vendor) procurement platform. Building the full Flutter mobile client from scratch: auth, onboarding, product catalog, and a real-time swag voting feature called Pulse.
 
-### 👁️ Blink Tracker App  
-Your digital health companion.  
-- Real-time blink monitoring using Google ML Kit  
-- Health-focused alerts to reduce digital eye strain  
-- Combines mobile innovation with user wellness
+**WorldMapPin Mobile** — Flutter app for a Hive-blockchain travel platform. Raw Hive API integration, HiveAuth, Riverpod state management.
 
 ---
 
-## 🛠️ Tech Stack
+## Stack
 
-`Flutter` `Solidity` `Hive Blockchain` `Firebase` `AWS` `Node.js`  
-`Python` `SQflite` `Linux` `REST API` `GraphQL`  
-`Provider` `Riverpod`  `MVVM`
+Flutter · Dart · Supabase · Next.js · Node.js · Hive Blockchain · Firebase · Python · Solana · EVM Smart Contracts
 
 ---
 
-## 📊 Most Used Languages
+## Hackathons
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arice77&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 Hackathon Highlights
-
-- **1st Place** – XposedOrNot, Formidium -BITS Pilani
-- **2nd Place** – Chipp, Hack With Delhi (Web3), Build With Delhi (Web3)  
-- **Winner** – Soroban Bounty (Web3), Hedera Pre-Hack  
-- **3rd Place** – IIT Delhi Tryst  
-
----
-
-## 📫 Contact
-
-Feel free to reach out: **abin3669@gmail.com**
+| Place | Event |
+|-------|-------|
+| 🥇 1st | XposedOrNot – Formidium × BITS Pilani |
+| 🥇 1st | Hedera Pre-Hack |
+| 🥇 1st Aptos Track | Formidium DevFest 4.0 |
+| 🥈 2nd | Chipp AI |
+| 🥈 2nd | Hack With Delhi Web3 |
+| 🥈 2nd | Build With Delhi Web3 |
+| 🥈 2nd | Game Time Hackathon – Binary Holdings × Metana |
+| 🥉 3rd | IIT Delhi Tryst |
+| 🏆 Winner | Soroban/Stellar Developer Reward – RiseIn |
 
 ---
 
-> “Driven by curiosity. Empowered by code. Building tomorrow, one app at a time.”
+## Background
+
+Founded **Travelo** (decentralized travel blogging, ₹1L+ funding) → acquired by WorldMapPin in 2025. Accepted into **Protocol Labs Founder School FS26-1**. BCA student at Christ University Bengaluru (2023–2027).
+
+---
+
+📬 abin3669@gmail.com · [LinkedIn](https://linkedin.com/in/abin-saji-193431256)
